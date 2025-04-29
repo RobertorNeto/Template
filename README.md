@@ -15,7 +15,7 @@ Este projeto é uma API feita em **Flask** com **MySQL** para gerenciar {{Nome}}
 1. Clonando o Repositório
    Primeiro, faça o **clone** deste repositório para sua máquina local:
     ```bash
-         git clone https://github.com/usuario/API_receitas.git 
+         git clone https://github.com/usuario/Template.git 
          cd API_receitas
 
 3. Instalar as dependências
